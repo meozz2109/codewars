@@ -1,4 +1,4 @@
-# My Codewars Kata Solutions
+# *My Codewars Kata Solutions*
 ## Definition
 Let's  see  Codewars's  defenition  <a href="https://github.com/Codewars/codewars.com/wiki/About-Codewars">from</a>  Codewars  wiki:
 <br>
