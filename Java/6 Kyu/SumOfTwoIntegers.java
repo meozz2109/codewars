@@ -5,10 +5,10 @@ public class Solution
 {
     public static int add(int x, int y)
     {
-      if (y == 0) {
+    	if(y == 0) {
       		return x;
     	}
-    else {
+    	else {
         	return add( x ^ y, (x & y) << 1);
     	}
     }
